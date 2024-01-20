@@ -15,5 +15,5 @@ function vur() {
 }
 function bol() {
     let netice = +a.value / +b.value;
-    document.getElementById('ayaz').innerHTML = netice;
+    document.getElementById('ayaz').innerHTML = netice;
 }
